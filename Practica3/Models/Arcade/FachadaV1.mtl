@@ -1,0 +1,152 @@
+newmtl Guitar1:AGUJEROS_CUERDASSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd guitar_mod_volume.001_Roughness.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 98.00
+newmtl Guitar1:BOTONESSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd GG_botones_guitar_BaseColor.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 98.00
+newmtl Guitar1:CUERDASSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd GG_metal-cuerdas_BaseColor.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 98.00
+newmtl Guitar1:GUITARSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd GUITAR_EXample3_guitarra_BaseColor.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 98.00
+newmtl Guitar1:MASTIILSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd GG_envol_cuerdas_BaseColor.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 98.00
+newmtl Guitar1:MOD_VOLUMENSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd guitar_mod_volume.001_BaseColor.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl Guitar1:PUENTESG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd guitar_puente.001_BaseColor.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 5.01
+newmtl Guitar1:SUJETACUERDASSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd GG_envol_cuerdas_BaseColor.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 98.00
+newmtl Guitar1:clavijasSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd GG_clavijas_BaseColor.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 98.00
+newmtl Guitar1:clavijeroSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd GG_clavijero_BaseColor.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 98.00
+newmtl Guitar1:cuerda_plasticGGSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd GG_metal-cuerdas_BaseColor.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 98.00
+newmtl Guitar1:design_guitarSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd GG_diseño_guitar_BaseColor.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 98.00
+newmtl Guitar1:jackSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd guitar_jack1.001_BaseColor.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 2.87
+newmtl Guitar1:marcas_negrasSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 98.00
+newmtl Guitar1:pastilasSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd GG_pastillas_BaseColor.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 98.00
+newmtl phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Walls.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Walls.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00

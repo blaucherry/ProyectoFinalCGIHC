@@ -1,0 +1,319 @@
+newmtl Arcade:AsterFire_Title_screen
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.18 0.18 0.18
+Tf 1.00 1.00 1.00
+map_Kd black.png
+Ni 1.00
+newmtl Arcade:BlueButton
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd blue.png
+Ni 1.00
+newmtl Arcade:Buttons
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd black.png
+Ni 1.00
+newmtl Arcade:CoinDoor
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ArcadeDoors.png
+Ni 1.00
+newmtl Arcade:CoinSlots
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ArcadeCoinSlots.png
+Ni 1.00
+newmtl Arcade:Front
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd AsterFireFrontArt.png
+Ni 1.00
+newmtl Arcade:KeyHole
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd metal_7310.jpg
+Ni 1.00
+newmtl Arcade:RedButton
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd red.png
+Ni 1.00
+newmtl Arcade:Ring_TrackBall_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd black.png
+Ni 1.00
+newmtl Arcade:Screws
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd black.png
+Ni 1.00
+newmtl Arcade:Sides
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd AsterFireSideArt.png
+Ni 1.00
+newmtl Arcade:TrackBall
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Stucco-1164.jpg
+Ni 1.00
+newmtl Arcade:Vent
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Mesh.png
+Ni 1.00
+newmtl Arcade:YellowButton
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd yellow.jpg
+Ni 1.00
+newmtl AsterFireArcade:AsterFire_Title_screen
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.18 0.18 0.18
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl AsterFireArcade:BlueButton
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd blue.png
+Ni 1.00
+newmtl AsterFireArcade:Buttons
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd black.png
+Ni 1.00
+newmtl AsterFireArcade:CoinDoor
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ArcadeDoors.png
+Ni 1.00
+newmtl AsterFireArcade:CoinSlots
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ArcadeCoinSlots.png
+Ni 1.00
+newmtl AsterFireArcade:Front
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd AsterFireFrontArt.png
+Ni 1.00
+newmtl AsterFireArcade:KeyHole
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd metal_7310.jpg
+Ni 1.00
+newmtl AsterFireArcade:RedButton
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd red.png
+Ni 1.00
+newmtl AsterFireArcade:Ring_TrackBall_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd black.png
+Ni 1.00
+newmtl AsterFireArcade:Screws
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd black.png
+Ni 1.00
+newmtl AsterFireArcade:Sides
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd AsterFireSideArt.png
+Ni 1.00
+newmtl AsterFireArcade:TrackBall
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Stucco-1164.jpg
+Ni 1.00
+newmtl AsterFireArcade:Vent
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Mesh.png
+Ni 1.00
+newmtl AsterFireArcade:YellowButton
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd yellow.jpg
+Ni 1.00
+newmtl AsterFireArcade1:AsterFire_Title_screen
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.18 0.18 0.18
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.19 0.19 0.19
+Ns 725.49
+newmtl AsterFireArcade1:BlueButton
+illum 4
+Kd 0.00 0.01 0.80
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 92.16
+newmtl AsterFireArcade1:Buttons
+illum 4
+Kd 0.01 0.01 0.01
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 92.16
+newmtl AsterFireArcade1:CoinDoor
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 0.53 0.53 0.53
+map_Kd ArcadeDoors.png
+Ni 1.00
+Ks 0.16 0.16 0.16
+Ns 592.16
+newmtl AsterFireArcade1:CoinSlots
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ArcadeCoinSlots.png
+Ni 1.00
+Ks 0.62 0.06 0.01
+Ns 749.02
+newmtl AsterFireArcade1:Front
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd AsterFireFrontArt.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 92.16
+newmtl AsterFireArcade1:KeyHole
+illum 4
+Kd 0.39 0.39 0.39
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.70 0.70 0.70
+Ns 749.02
+newmtl AsterFireArcade1:RedButton
+illum 4
+Kd 0.66 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 92.16
+newmtl AsterFireArcade1:Ring_TrackBall_
+illum 4
+Kd 0.02 0.02 0.02
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 92.16
+newmtl AsterFireArcade1:Screws
+illum 4
+Kd 0.01 0.01 0.01
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 92.16
+newmtl AsterFireArcade1:Sides
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd AsterFireSideArt.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 92.16
+newmtl AsterFireArcade1:TrackBall
+illum 4
+Kd 0.18 0.18 0.18
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 92.16
+newmtl AsterFireArcade1:Vent
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Mesh.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 749.02
+newmtl AsterFireArcade1:YellowButton
+illum 4
+Kd 0.79 0.59 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 92.16
+newmtl lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tex.png
+Ni 1.00

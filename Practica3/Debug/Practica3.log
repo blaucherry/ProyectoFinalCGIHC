@@ -1,0 +1,69 @@
+﻿  iluminacion2.cpp
+C:\Users\PC Budgie\OneDrive\Escritorio\Practica3\Practica3\iluminacion2.cpp(195,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\PC Budgie\OneDrive\Escritorio\Practica3\Practica3\iluminacion2.cpp(234,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\PC Budgie\OneDrive\Escritorio\Practica3\Practica3\iluminacion2.cpp(235,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\PC Budgie\OneDrive\Escritorio\Practica3\Practica3\iluminacion2.cpp(236,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\PC Budgie\OneDrive\Escritorio\Practica3\Practica3\iluminacion2.cpp(250,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\PC Budgie\OneDrive\Escritorio\Practica3\Practica3\iluminacion2.cpp(251,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\PC Budgie\OneDrive\Escritorio\Practica3\Practica3\iluminacion2.cpp(252,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\PC Budgie\OneDrive\Escritorio\Practica3\Practica3\iluminacion2.cpp(264,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\PC Budgie\OneDrive\Escritorio\Practica3\Practica3\iluminacion2.cpp(265,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\PC Budgie\OneDrive\Escritorio\Practica3\Practica3\iluminacion2.cpp(266,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\PC Budgie\OneDrive\Escritorio\Practica3\Practica3\iluminacion2.cpp(278,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\PC Budgie\OneDrive\Escritorio\Practica3\Practica3\iluminacion2.cpp(279,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\PC Budgie\OneDrive\Escritorio\Practica3\Practica3\iluminacion2.cpp(280,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\PC Budgie\OneDrive\Escritorio\Practica3\Practica3\iluminacion2.cpp(509,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\PC Budgie\OneDrive\Escritorio\Practica3\Practica3\iluminacion2.cpp(510,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\PC Budgie\OneDrive\Escritorio\Practica3\Practica3\iluminacion2.cpp(514,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\PC Budgie\OneDrive\Escritorio\Practica3\Practica3\iluminacion2.cpp(515,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\PC Budgie\OneDrive\Escritorio\Practica3\Practica3\iluminacion2.cpp(517,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\PC Budgie\OneDrive\Escritorio\Practica3\Practica3\iluminacion2.cpp(518,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Practica3.vcxproj -> C:\Users\PC Budgie\OneDrive\Escritorio\Practica3\Debug\Practica3.exe
